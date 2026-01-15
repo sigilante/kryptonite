@@ -1,0 +1,17 @@
+[package]
+name = "btc"
+version = "0.1.0"
+description = "Bitcoin on Nock ISA-based systems experiment."
+authors = ["sigilante"]
+license = "MIT"
+template = "http-server"
+
+[dependencies]
+"nockchain/zose" = "latest"
+"urbit/zuse" = "@k409"
+
+[dependencies.sequent]
+git = "https://github.com/jackfoxy/sequent"
+commit = "7fc95fd4d6df7548cf354c9c91df2980e902770d"
+path = "desk"
+files = ["lib/seq"]

@@ -1,0 +1,9 @@
+:~  title+'Kryptonite'
+    info+'An experiment in Bitcoin'
+    color+0xff.f450
+    image+''
+    version+[0 0 1]
+    website+'https://github.com/sigilante/kryptonite/'
+    license+'MIT'
+    site+/apps/kryptonite
+==

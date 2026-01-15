@@ -1,0 +1,1 @@
+../packages/nockchain-zose--latest/zose.hoon
